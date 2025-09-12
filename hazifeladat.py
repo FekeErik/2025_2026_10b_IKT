@@ -1,2 +1,3 @@
-#Jó sok házi feladat kell nekünk.
-#kérünk egy ábrát, amit otthon megoldhatunk.
+#Jó sok házi feladat
+#kérünk egy ábrát, amit otthon megoldhatunk!!!
+#learngitbranching.js.org
