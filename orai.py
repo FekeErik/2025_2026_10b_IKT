@@ -1,5 +1,5 @@
 print("órai munka")
-nev = "Son Goku"
+nev = "Bejita"
 b=11
 a = 12
 mongoltorokenekles=True
