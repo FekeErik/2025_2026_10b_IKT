@@ -8,3 +8,4 @@ aeaeaa=False
 paros=2
 InfiniteElixirTheory=True
 MegaKnight="tisztulj!"
+DragonBall="Peak"
